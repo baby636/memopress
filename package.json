@@ -17,14 +17,14 @@
   },
   "homepage": "https://github.com/bigearth/memopress#readme",
   "dependencies": {
-    "bitbox-cli": "0.7.28",
+    "bitbox-cli": "2.0.3",
     "underscore": "^1.9.0"
   },
   "devDependencies": {
     "assert": "^1.4.1",
-    "chai": "^4.1.2",
+    "chai": "^4.3.10",
     "flow-bin": "^0.64.0",
-    "nyc": "^11.6.0",
+    "nyc": "^17.0.0",
     "sinon": "^4.5.0"
   },
   "peerDependencies": {
